@@ -1,0 +1,17 @@
+universe = vanilla
+executable = submit_all.sh
+transfer_input_files = efficiency_all.py
+arguments = /staging/groups/stat_dscp/group04/trip_data_$(name).csv
+
+should_transfer_files = YES
+
+output = out/efficiency_analysis$(name).out
+error = err/efficiency_analysis$(name).err
+log = log/efficiency_analysis1$(name).log
+
+request_cpus = 1
+request_memory = 2GB
+request_disk = 2GB
+
+queue name from names.txt
+
