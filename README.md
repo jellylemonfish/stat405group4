@@ -3,7 +3,7 @@ This GitHub repository works for the University of Wisconsin–Madison course ST
 
 **Memeber: Ella Gruen, Anthony Pagas, John Chumlea, Shien Zhu and Samuel Negus**
 
-Keys: Linux, emacs, HTC, NYC taxi
+Keys: Linux, emacs, CHTC, NYC taxi
 
 We conduct an analysis on answering which taxi vendor is the most time efficient to take during any day of the week.
 
